@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 2
 ## Description
 You are commissioned to create an application to track a group of students.  Your app will have the ability to add new students, change student attributes, and delete students.  
 ## Technical Requirements
@@ -8,7 +8,7 @@ You are commissioned to create an application to track a group of students.  You
 1. The ability to add new Students (with corresponding attributes).
 2. The ability to change attributes of any of the Students. A form should be displayed for this feature with the existing attributes already filled in. 
 3. The ability to delete any of the Students
-4. The ability to display (draw) all Students currently in the database (including any other information you collect) in the **form of rectangles** (hint: use a <div> or <span> tag). For example, if you currently have three Students in your database as follows:
+4. The ability to display (draw) all Students currently in the database (including any other information you collect) in the **form of rectangles** (hint: use a `<div>` or `<span>` tag). For example, if you currently have three Students in your database as follows:
 
 ![](img2.png)
 
