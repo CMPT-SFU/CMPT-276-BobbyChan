@@ -7,16 +7,16 @@ There are **2 assignments**, **1 projects**, **1 midterm** and **1 final**
 * Midterm: 20%
 * Final 25%
 ## Assignments & Group Project Iterations
-[x] Assignment 1
+- [x] Assignment 1
 
-[x] Assignment 2
+- [x] Assignment 2
 
-[x] Group Project Iteration 1
+- [x] Group Project Iteration 1
 
-[x] Group Project Iteration 2
+- [x] Group Project Iteration 2
 
-[x] Group Project Iteration 3
+- [x] Group Project Iteration 3
 ## Midterm & Final
-[x] Midterm
+- [x] Midterm
 
-[x] Final
+- [x] Final
